@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dougie/static/css/main.97470ab7.css",
-    "main.js": "/dougie/static/js/main.a3902cd4.js",
+    "main.js": "/dougie/static/js/main.4e06518d.js",
     "index.html": "/dougie/index.html",
     "main.97470ab7.css.map": "/dougie/static/css/main.97470ab7.css.map",
-    "main.a3902cd4.js.map": "/dougie/static/js/main.a3902cd4.js.map"
+    "main.4e06518d.js.map": "/dougie/static/js/main.4e06518d.js.map"
   },
   "entrypoints": [
     "static/css/main.97470ab7.css",
-    "static/js/main.a3902cd4.js"
+    "static/js/main.4e06518d.js"
   ]
 }
