@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dougie/static/css/main.97470ab7.css",
+    "main.js": "/dougie/static/js/main.a3902cd4.js",
+    "index.html": "/dougie/index.html",
+    "main.97470ab7.css.map": "/dougie/static/css/main.97470ab7.css.map",
+    "main.a3902cd4.js.map": "/dougie/static/js/main.a3902cd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97470ab7.css",
+    "static/js/main.a3902cd4.js"
+  ]
+}
